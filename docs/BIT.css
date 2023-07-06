@@ -1,0 +1,207 @@
+html, body {
+	background-color: black;
+	width: 100%;
+}
+
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	color: white;
+	margin-left: 50px;
+}
+
+a.navitem {
+	color: white;
+	text-decoration: none;
+	padding-left: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+a.navitem:hover{
+	color:black;
+	background-color: #c1c1c1;
+	padding-top: 17px;
+	padding-bottom: 17px;	
+}
+
+a.navitemelse {
+	color: black;
+	background-color: #c1c1c1;
+	text-decoration: none;
+	padding-left: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+a.navitemelse:hover{
+	color:white;
+	background-color: black;;
+	padding-top: 17px;
+	padding-bottom: 20px;	
+}
+
+a.causeofdeath {
+	color: black;
+	text-decoration: none;
+	padding: 10px;
+	background-color: white;
+	font-size: 13px;
+	font-family: Helvetica, sans-serif;
+}
+
+a.causeofdeath:hover {
+	color: black;
+	text-decoration: none;
+	padding:10px;
+	background-color: #c1c1c1;
+	font-size: 13px;
+}
+
+.causeofdeathcurrent1 {
+	color: black;
+	text-decoration: none;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top:-10px;
+	font-family: Helvetica,sans-serif;
+	background-color: #c1c1c1;
+	font-size: 13px;
+	width: 85%;
+}
+
+.causeofdeathcurrent2 {
+	color: black;
+	text-decoration: none;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: Helvetica,sans-serif;
+	background-color: #c1c1c1;
+	font-size: 13px;
+	width: 83%;
+}
+
+.causeofdeathcurrent3 {
+	color: black;
+	text-decoration: none;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: Helvetica,sans-serif;
+	background-color: #c1c1c1;
+	font-size: 13px;
+	width: 52%;
+}
+
+.causeofdeathcurrent4 {
+	color: black;
+	text-decoration: none;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: Helvetica,sans-serif;
+	background-color: #c1c1c1;
+	font-size: 13px;
+	width: 54%;
+}
+
+#titlecontainer {
+	background-color: black;
+	width: 75%;
+	margin-top: 100px;
+}
+
+#title {
+	color: white;
+	font-size: 50px;
+	font-family: 'Montserrat', sans-serif;
+	text-align: left;
+	font-weight: bold;
+}
+
+#subtitle {
+	color: white;
+	font-size: 25px;
+	font-family: Helvetica, sans-serif;
+	font-weight: 200;
+	margin-top: 0px;
+}
+
+#crossbar {
+	width: 101%;
+	background-color:#c1c1c1;
+	height: 150px;
+	margin-top: 100px;
+	margin-left: -15px;
+	overflow: hidden;
+}
+
+#minicrossbar {
+	width: 101%;
+	background-color: black;
+	height: 50px;
+	margin-top: 50px;
+}
+
+#navcontainer {
+	width: 75%;
+}
+
+#navtext{
+	margin-left: 10px;
+	text-align: left;
+	padding-top: 17px;
+	font-family: Helvetica, sans-serif;
+	font-weight: 200;
+}
+
+#causeofdeathnav {
+	width: 101%;
+	margin-left: -15px;
+	background-color: #c1c1c1;
+	height: 50px;
+	margin-top: -5px;
+}
+
+#causeofdeathnavtext {
+	margin-left: 20px;
+	margin-top: 40px;
+	font-family: Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+#causeofdeathsidebar {
+	width:30%;
+	display: inline-block;
+	float: left;
+	padding-top: 50px;
+	text-align: left;
+	padding-left: 40px;
+}
+
+#causeofdeathbackground {
+	display:inline-block;
+	width: 65%;
+	background-color: black;
+	margin-top: 0px;
+	float: right;
+}
+
+#causeofdeathcontent {
+	margin-top: 0px;
+	
+}
+
+.documentationsmall {
+	background-color: white;
+	color: black;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	padding: 15px;
+	width: 75%;
+	float: left;
+	margin-left: 50px;
+}
